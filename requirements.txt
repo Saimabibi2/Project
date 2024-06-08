@@ -1,0 +1,9 @@
+numpy
+pandas
+nltk
+scikit-learn
+beautifulsoup4
+html5lib
+streamlit
+fuzzywuzzy
+python-Levenshtein
